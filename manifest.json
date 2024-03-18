@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Calculadora de Envios",
+    "version": "1.0",
+    "description": "Extensión para calcular envios",
+    "icons": {
+        "128": "correo.png"
+    },
+    "action": {
+        "default_popup": "envios.html"
+    }
+}
