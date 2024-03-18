@@ -5,7 +5,8 @@ Este proyecto esta basado en el trabajo de [Manuel Borrajo](https://github.com/B
 
 
 ## Instalación
-
+Primero tendremos que descargar el proyecto, desde el boton CODE -> Download ZIP.
+Luego de eso, extraemos la carpeta donde necesitemos. 
 Para poder probar la extensión tendremos que activar el modo desarrollador. 
 Escribimos en la barra de dirección chrome://extensions/ ó edge://extensions.
 -  Chrome: en el lado superior derecho activamos el modo desarrollador. 
