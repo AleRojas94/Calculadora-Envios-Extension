@@ -1,4 +1,4 @@
-# Calculadora-Envios-Extension
+# Calculadora-Envíos-Extensión
 Extensión de navegador para calcular los costos de importación de productos del exterior, a través de correo argentino. 
 Este proyecto esta basado en el trabajo de [Manuel Borrajo](https://github.com/Borrajo): [Calculadora correo Argentino](https://calculadora-correo-argentino.web.app/)
 
